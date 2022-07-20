@@ -9,6 +9,7 @@ function Profile(){
             <div className="profile-info">
                 <p className="profile-name">Diwakar Singh</p>
                 <p className="profile-occupation">Frontend Developer</p>
+                <p className="profile-website">lucyliu.website</p>
             </div>
 
             <CTA />
